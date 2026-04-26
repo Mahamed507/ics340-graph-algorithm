@@ -1,0 +1,4 @@
+PATH                             DIST   HEUR  F-VALUE
+Mpl                                 0    400      400
+Mpl-Chi                           354    300      654
+Mpl-Chi-Atl                       935

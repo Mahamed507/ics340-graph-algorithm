@@ -1,0 +1,13 @@
+~          val    A    B    C    d    D    L    m    M    N    s    S    W
+Atlanta      ~    ~    ~    ~   12    ~    ~    ~    ~    ~    ~    ~   11
+Boston       ~    ~    ~    ~    ~    ~    ~    ~   10   30    ~    ~    ~
+Chicago      ~   18   18    ~    ~   18    ~    ~    ~    ~    ~    ~   18
+Dallas       ~    ~    ~   20    ~    ~   22   13    ~    ~    ~    ~    ~
+Denver       ~    ~    ~    ~   13    ~    ~    ~   10    ~   11   11    ~
+LosAngeles   ~    ~    ~    ~    ~   20    ~    ~    ~    ~    ~   21    ~
+Miami        S   10   10    ~    ~    ~    ~    ~    ~    ~    ~    ~    ~
+Minneapolis  ~    ~    ~   18   13    ~    ~    ~    ~    ~    ~    ~    ~
+NewYork      ~    ~    ~    ~    ~    ~    ~   29    ~   33    ~    ~    ~
+SanFrancisco ~    ~    ~    ~    ~    ~    ~    ~    ~    ~   21    ~    ~
+Seattle      T    ~    ~    ~    ~    ~    ~    ~   10    ~   12    ~    ~
+Washington   ~    ~    ~    ~    ~    ~    ~    ~    ~   30    ~    ~    ~

@@ -1,0 +1,2 @@
+~          val  A    B    C    D    E   
+Alpha      25   ~    ~    ~    ~    ~   Bravo      20   1    ~    ~    ~    1   Charlie    5    ~    ~    ~    ~    ~   Delta      20   ~    ~    1    ~    ~   Echo       30   ~    ~    ~    1    ~   

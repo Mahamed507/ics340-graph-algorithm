@@ -1,0 +1,7 @@
+~          val   C   E    R   S   V   W
+Calgary      ~   ~   4   14   ~   ~   ~
+Edmonton     ~   ~   ~    ~  12   ~   ~
+Regina       ~   ~   ~    ~   7   ~   4
+Saskatoon    ~   9   ~    ~   ~   ~  20
+Vancouver    S  13  16    ~   ~   ~   ~
+Winnipeg     T   ~   ~    ~   ~   ~   ~

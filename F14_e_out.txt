@@ -1,0 +1,37 @@
+Residual graph:
+~               val  C    E    R    S    V    W    
+Calgary         ~    ~    4    14   0    0    ~    
+Edmonton        ~    0    ~    ~    12   0    ~    
+Regina          ~    0    ~    ~    7    ~    4    
+Saskatoon       ~    9    0    0    ~    ~    20   
+Vancouver       S    13   16   ~    ~    ~    ~    
+Winnipeg        T    ~    ~    0    0    ~    ~    
+
+Path VESW, augmented flow = 12, total flow = 12.  Residual graph:
+~               val  C    E    R    S    V    W    
+Calgary         ~    ~    4    14   0    0    ~    
+Edmonton        ~    0    ~    ~    0    12   ~    
+Regina          ~    0    ~    ~    7    ~    4    
+Saskatoon       ~    9    12   0    ~    ~    8    
+Vancouver       S    13   4    ~    ~    ~    ~    
+Winnipeg        T    ~    ~    0    12   ~    ~    
+
+Path VCRW, augmented flow = 4, total flow = 16.  Residual graph:
+~               val  C    E    R    S    V    W    
+Calgary         ~    ~    4    10   0    4    ~    
+Edmonton        ~    0    ~    ~    0    12   ~    
+Regina          ~    4    ~    ~    7    ~    0    
+Saskatoon       ~    9    12   0    ~    ~    8    
+Vancouver       S    9    4    ~    ~    ~    ~    
+Winnipeg        T    ~    ~    4    12   ~    ~    
+
+Path VCRSW, augmented flow = 7, total flow = 23.  Residual graph:
+~               val  C    E    R    S    V    W    
+Calgary         ~    ~    4    3    0    11   ~    
+Edmonton        ~    0    ~    ~    0    12   ~    
+Regina          ~    11   ~    ~    0    ~    0    
+Saskatoon       ~    9    12   7    ~    ~    1    
+Vancouver       S    2    4    ~    ~    ~    ~    
+Winnipeg        T    ~    ~    4    19   ~    ~    
+
+No more augmenting flows.

@@ -1,0 +1,65 @@
+DFS of graph:
+
+Node       Disc     Finish  
+Atlanta    6        19      
+Boston     9        14      
+Chicago    10       13      
+Dallas     5        20      
+Denver     4        21      
+LosAngeles 1        24      
+Miami      17       18      
+Minneapolis 11       12      
+NewYork    8        15      
+SanFrancisco 2        23      
+Seattle    3        22      
+Washington 7        16      
+
+Edge Classification:
+
+Edge            Type      
+Atlanta->Chicago Forward   
+Atlanta->Dallas Back      
+Atlanta->Miami  Tree      
+Atlanta->Washington Tree      
+Boston->Chicago Tree      
+Boston->Minneapolis Forward   
+Boston->NewYork Back      
+Chicago->Atlanta Back      
+Chicago->Boston Back      
+Chicago->Dallas Back      
+Chicago->Denver Back      
+Chicago->Minneapolis Tree      
+Chicago->NewYork Back      
+Chicago->Washington Back      
+Dallas->Atlanta Tree      
+Dallas->Chicago Forward   
+Dallas->Denver  Back      
+Dallas->LosAngeles Back      
+Dallas->Miami   Forward   
+Denver->Chicago Forward   
+Denver->Dallas  Tree      
+Denver->LosAngeles Back      
+Denver->Minneapolis Forward   
+Denver->SanFrancisco Back      
+Denver->Seattle Back      
+LosAngeles->Dallas Forward   
+LosAngeles->Denver Forward   
+LosAngeles->SanFrancisco Tree      
+Miami->Atlanta  Back      
+Miami->Dallas   Back      
+Minneapolis->Boston Back      
+Minneapolis->Chicago Back      
+Minneapolis->Denver Back      
+Minneapolis->Seattle Back      
+NewYork->Boston Tree      
+NewYork->Chicago Forward   
+NewYork->Washington Back      
+SanFrancisco->Denver Forward   
+SanFrancisco->LosAngeles Back      
+SanFrancisco->Seattle Tree      
+Seattle->Denver Tree      
+Seattle->Minneapolis Forward   
+Seattle->SanFrancisco Back      
+Washington->Atlanta Back      
+Washington->Chicago Forward   
+Washington->NewYork Tree      

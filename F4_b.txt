@@ -1,0 +1,6 @@
+~       val   A   B   C   D   E
+Alpha    25   ~   ~   ~   ~   ~
+Bravo    20   ~   ~   ~   ~   ~
+Charlie   5   ~   ~   ~   ~   ~
+Delta    20   ~   ~   ~   ~   ~
+Echo     30   ~   ~   ~   ~   ~
